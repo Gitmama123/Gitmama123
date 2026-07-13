@@ -10,7 +10,7 @@ saishankar@github:~$ neofetch
 
 ```
        _____                    OS: PESU Linux (CS, Year 2 )
-      /     \                   Editor: Neovim (LazyVim)
+      /     \                  
      | () () |                  
       \  ^  /                   Shell: zsh
        |||||                    Languages: C, Python, JS/TS
