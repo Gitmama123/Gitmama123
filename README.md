@@ -38,9 +38,9 @@ Status    : Open to interesting builds
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitmama123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eta-ten-w5ixvzlx2y.vercel.app/api?username=Gitmama123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitmama123&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eta-ten-w5ixvzlx2y.vercel.app/api/top-langs/?username=Gitmama123&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
