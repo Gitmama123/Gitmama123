@@ -9,9 +9,9 @@ saishankar@github:~$ neofetch
 ```
 
 ```
-       _____                    OS: PESU Linux (CS, Year 1)
+       _____                    OS: PESU Linux (CS, Year 2 )
       /     \                   Editor: Neovim (LazyVim)
-     | () () |                  WM: GlazeWM + YASB + Zebar
+     | () () |                  
       \  ^  /                   Shell: zsh
        |||||                    Languages: C, Python, JS/TS
      __|||||__                  Currently: Semester 3 incoming
@@ -33,7 +33,6 @@ saishankar@github:~$ cat contact.txt
 
 ```
 Location  : PESU, Bengaluru
-Studio    : Dualith Studios (web dev, 2-person team)
 Status    : Open to interesting builds
 ```
 
