@@ -9,12 +9,12 @@ saishankar@github:~$ neofetch
 ```
 
 ```
-       _____                    OS: PESU Linux (CS, Year 2 )
+       _____                    OS: Arch Linux 
       /     \                  
      | () () |                  
-      \  ^  /                   Shell: zsh
+      \  ^  /                   Shell: noctalia v5.1.0
        |||||                    Languages: C, Python, JS/TS
-     __|||||__                  Currently: Semester 3 incoming
+     __|||||__                  Currently: Semester 3 
     /_________\            
 ```
 
